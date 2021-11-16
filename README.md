@@ -7,6 +7,7 @@ This is a nice exercise of:
   - Using basic JS to manipulate elements.
   - CSS properties like: clip-path
   - Applying glassmorphism effects with soft opacities and border positions
+  - Using [Vanilla-tilt.js effects](https://micku7zu.github.io/vanilla-tilt.js/)
 
 Hope you like it:
 https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/
