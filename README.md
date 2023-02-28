@@ -12,11 +12,11 @@ This is a nice exercise of:
 
 I hope you like it, code it and [watch it](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/)
 
-![Javascript Page Scroll Progress Bar](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/Calculator%20with%20CSS%20Glassmorphism%20Effects%201.png)
+![Calculator with CSS Glassmorphism Effects](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/Calculator%20with%20CSS%20Glassmorphism%20Effects%201.png)
 
-![Javascript Page Scroll Progress Bar](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/Calculator%20with%20CSS%20Glassmorphism%20Effects%202.png)
+![Calculator with CSS Glassmorphism Effects](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/Calculator%20with%20CSS%20Glassmorphism%20Effects%202.png)
 
-![Javascript Page Scroll Progress Bar](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/Calculator%20with%20CSS%20Glassmorphism%20Effects%203.png)
+![Calculator with CSS Glassmorphism Effects](https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/Calculator%20with%20CSS%20Glassmorphism%20Effects%203.png)
 
 Here is the demo link:  https://gustavolando.github.io/HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects/
 
