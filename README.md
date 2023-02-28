@@ -1,4 +1,3 @@
-HowToMakeCalculatorWithJavaScript-CSSGlassmorphismEffects
 # Calculator with CSS Glassmorphism Effects
 
 I get inspired by this tutorial of Irshad from Online Tutorials:
